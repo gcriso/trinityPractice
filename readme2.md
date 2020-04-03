@@ -16,7 +16,7 @@ A tabulated form of blast that contains the ORF name, hit name from Swissprot da
 
 ## Trinity 
 
-Number of Trinity transcripts: *205,260* 
+Number of Trinity transcripts: *102,630* 
 
 ## Transdecoder
 
