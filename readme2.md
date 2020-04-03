@@ -20,14 +20,14 @@ Number of Trinity transcripts: *205,260*
 
 ## Transdecoder
 
--Number of ORFs detected: *59,873*
--Number of complete ORFS: *26,076*
--Number of 5' partial ORFS: *16,322*
--Number of 3' partial ORFS: *5,994*
--Number of internal ORFS: *11,481*
+- Number of ORFs detected: *59,873*
+- Number of complete ORFS: *26,076*
+- Number of 5' partial ORFS: *16,322*
+- Number of 3' partial ORFS: *5,994*
+- Number of internal ORFS: *11,481*
 
 ## Blast output
 
--Number of unique ORFS annotated: *31,151* 
--Number of unique annotations: *11,715*
--Name and number of most common annotation: *sp|Q09666|AHNK_HUMAN with 880 annotation* 
+- Number of unique ORFS annotated: *31,151* 
+- Number of unique annotations: *11,715*
+- Name and number of most common annotation: *sp|Q09666|AHNK_HUMAN with 880 annotation* 
